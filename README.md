@@ -35,6 +35,3 @@ This analysis was created with insights from **Hashtag Treinamentos**.
 Feel free to provide feedback or suggest improvements! Open an issue or submit a pull request to collaborate.
 
 ---
-
-Let me know if you’d like any adjustments! 🚀
-
