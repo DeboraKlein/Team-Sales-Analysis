@@ -3,6 +3,9 @@
 ## Overview
 This repository contains an interactive **Power BI dashboard** designed to analyze the sales performance of our team. It provides dynamic visualizations and key insights to help track revenue, profit, and individual salesperson achievements.
 
+🚨 **Important Note:**  
+This dashboard is based on **fictitious data** and was created solely to demonstrate my **professional skills** in data visualization and analytics.
+
 ## Features
 ### 🔹 Dashboard Contents
 - **Dynamic images** showcasing individual salespeople.
@@ -34,5 +37,4 @@ Feel free to provide feedback or suggest improvements! Open an issue or submit a
 ---
 
 Let me know if you’d like any adjustments! 🚀
-# Team-Sales-Analysis
-https://app.powerbi.com/view?r=eyJrIjoiOTIxMDFkNzQtYzY3Yi00MDMyLWEyYWItOWI1OGE1MzljNmRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
